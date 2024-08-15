@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-App-Sunat-Repo/static/css/main.f1e97315.css",
+    "main.js": "/Portfolio-App-Sunat-Repo/static/js/main.054cd851.js",
+    "static/js/453.6b378848.chunk.js": "/Portfolio-App-Sunat-Repo/static/js/453.6b378848.chunk.js",
+    "static/media/My-work-1.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-1.f0bfa5fb1186c7c214e0.jpg",
+    "static/media/logo-no-background.png": "/Portfolio-App-Sunat-Repo/static/media/logo-no-background.99d1314da3ad60ed0152.png",
+    "static/media/My-work-5.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-5.c44e556ca044aadcfcae.jpg",
+    "static/media/My-work-3.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-3.a23e1395de81b355e2af.jpg",
+    "static/media/My-work-6.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-6.2e302598c03a47d585f4.jpg",
+    "static/media/My-work-4.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-4.f9f1f72b053cfb64ca11.jpg",
+    "static/media/My-work-2.jpg": "/Portfolio-App-Sunat-Repo/static/media/My-work-2.48ddaf7752225e279663.jpg",
+    "static/media/babul photo.jpg": "/Portfolio-App-Sunat-Repo/static/media/babul photo.c47c42e1b569971f83a5.jpg",
+    "index.html": "/Portfolio-App-Sunat-Repo/index.html",
+    "main.f1e97315.css.map": "/Portfolio-App-Sunat-Repo/static/css/main.f1e97315.css.map",
+    "main.054cd851.js.map": "/Portfolio-App-Sunat-Repo/static/js/main.054cd851.js.map",
+    "453.6b378848.chunk.js.map": "/Portfolio-App-Sunat-Repo/static/js/453.6b378848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e97315.css",
+    "static/js/main.054cd851.js"
+  ]
+}
