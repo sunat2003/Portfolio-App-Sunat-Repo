@@ -27,17 +27,15 @@
     gap:30px;
     padding:20px 30px;
     border-radius:50px;
-    background:#32323B;
+    background:#fff;
     padding-right:80px;
-}
-.footer-email-input:hover{
-    outline:2px solid #fff;
+    outline:2px solid #000;
 }
 .footer-email-input input{
     outline:none;
     border:none;
     background:transparent;
-    color:#fff;
+    color:#000;
     font-family:Outfit;
     font-size:18px;
 }

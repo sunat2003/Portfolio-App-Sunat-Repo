@@ -1,5 +1,5 @@
 .navbar{
-   background: #161513;
+   background: #fff;
    display: flex;
    align-items:center;
    justify-content: space-between;
@@ -38,7 +38,7 @@
 }
 .anchor-link{
    text-decoration: none;
-   color:#fff;
+   color:#000;
 }
 .toggle-button{
    z-index:999;
@@ -48,6 +48,7 @@
 
 .close-nav{
    font-size:25px;
+   color:#fff;
 }
 
 .close-nav{
@@ -98,6 +99,8 @@
       flex-direction:row;
       gap:20px;
    }
-
+   .anchor-link{
+      color:#fff;
+   }
 
 }
