@@ -44,7 +44,7 @@
 }
 .contact-left p{
     max-width:550px;
-    color:#000;
+    color:gray;
     font-size:20px;
     line-height:35px;
 }
@@ -67,30 +67,30 @@
     gap:30px;
 }
 .contact-right label{
-    color:#000;
+    color:#fff;
     font-size:22px;
     font-weight:500;
 }
 .contact-right input{
     border:none;
-    outline:2px solid #000;
+    outline:2px solid #fff;
     width:100%;
     height:50px;
     padding:0px 20px;
     border-radius:4px;
-    background:#ffffff;
+    background:#000;
     color:#A0A0A0;
     font-family: Outfit;
     font-size:20px;
 }
 .contact-right textarea{
     border:none;
-    outline:2px solid #000;
+    outline:2px solid #fff;
     width:100%;
     height:100px;
     padding:20px 20px;
     border-radius:4px;
-    background:#fff;
+    background:#000;
     color:#A0A0A0;
     font-family: Outfit;
     font-size:20px;
